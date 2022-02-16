@@ -5,11 +5,11 @@ Ce guide a pour but de vous aider dans l'envoi de vos relevés bancaires/fichier
 Dans l'application MyUnisoft vous pouvez importer vos relevés bancaires depuis le menu:
 `Tenue` > `Flux` > `Imports`
 
-![](./images/import_ebics_menu.png)
+![](./images/import_ebics_menu.PNG)
 
 Sélectionnez le type EBICS
 
-![](./images/import_ebics.png)
+![](./images/import_ebics.PNG)
 
 ## API
 

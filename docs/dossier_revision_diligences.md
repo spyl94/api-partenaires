@@ -1,11 +1,11 @@
 # Récupérer les diligences d'un cycle/dossier de révision
 Ce guide a pour objectif de vous aider dans la récupération des diligences d'un cycle/dossier de révision.
 
-![](./images/dossier_revision_diligences.png)
+![](./images/dossier_revision_diligences.PNG)
 
 Dans l'application MyUnisoft les dossiers de révision peuvent gérés depuis le menu : `Révision` > `Révision` > `Dossier de révison`.
 
-![](./images/dossier_revision_menu.png)
+![](./images/dossier_revision_menu.PNG)
 
 ## API
 

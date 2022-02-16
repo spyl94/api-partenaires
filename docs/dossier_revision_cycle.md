@@ -1,11 +1,11 @@
 # Récupérer les cycles d'un dossier de révision/modèle de révision.
 Ce guide a pour objectif de vous aider dans la récupération des cycles d'un dossier de révision/modèle de révision.
 
-![](./images/dossier_revision_cycle.png)
+![](./images/dossier_revision_cycle.PNG)
 
 Dans l'application MyUnisoft les dossiers de révision peuvent gérés depuis le menu : `Révision` > `Révision` > `Dossier de révison`.
 
-![](./images/dossier_revision_menu.png)
+![](./images/dossier_revision_menu.PNG)
 
 ## API
 

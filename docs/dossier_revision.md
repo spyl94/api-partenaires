@@ -1,11 +1,11 @@
 # Récupérer les dossiers de révision d'une société (dossier de production)
 Ce guide a pour objectif de vous aider dans la récupération des dossiers de révision d'une société (dossier de production).
 
-![](./images/dossier_revision.png)
+![](./images/dossier_revision.PNG)
 
 Dans l'application MyUnisoft les dossiers de révision peuvent gérés depuis le menu: `Révision` > `Révision` > `Dossier de révison`.
 
-![](./images/dossier_revision_menu.png)
+![](./images/dossier_revision_menu.PNG)
 
 ## API
 

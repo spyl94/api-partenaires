@@ -5,9 +5,9 @@ Ce guide a pour but de vous aider dans la récupération du flux manuel.
 Dans l'application MyUnisoft vous pouvez importer vos relevés bancaires depuis le menu:
 `Tenue` > `Saisie` > `Flux manuel`
 
-![](./images/flux_manuel_menu.png)
+![](./images/flux_manuel_menu.PNG)
 
-![](./images/flux_manuel_menu2.png)
+![](./images/flux_manuel_menu2.PNG)
 
 ## API
 

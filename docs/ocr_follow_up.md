@@ -1,16 +1,16 @@
 # Récupérer le suivi OCR
 Ce guide a pour objectif de vous aider dans la récupération du suivi OCR.
 
-![](./images/ocr_follow_up.png)
+![](./images/ocr_follow_up.PNG)
 
 Dans l'application MyUnisoft le suivi OCR peut être géré:
 - Depuis le menu: `Tenue` > `Flux` > `Suivi OCR`
 
-![](./images/ocr_follow_up_menu.png)
+![](./images/ocr_follow_up_menu.PNG)
 
 - Depuis la navigation rapide: `Envoi de nouveau document` > `Consulter le suivi OCR`
 
-![](./images/ocr_follow_up_menu2.png)
+![](./images/ocr_follow_up_menu2.PNG)
 
 ## API
 
